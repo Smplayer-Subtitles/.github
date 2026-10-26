@@ -1,5 +1,3 @@
-A playlist is a list of your paths. Chapters help you resume. Do not add sites that offer films you do not own, and close the recent list on a shared PC if the titles are private.
-
 # SMPlayer - Play a Video File You Already Have
 
 ![SMPlayer playing a local video file the user owns](https://www.tromjaro.com/wp-content/uploads/2022/07/smplayer8.png)
